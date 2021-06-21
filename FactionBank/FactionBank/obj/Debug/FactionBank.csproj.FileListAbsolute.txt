@@ -1,0 +1,7 @@
+F:\Repos\FactionBank\FactionBank\obj\Debug\FactionBank.csprojAssemblyReference.cache
+F:\Repos\FactionBank\FactionBank\obj\Debug\FactionBank.csproj.CoreCompileInputs.cache
+K:\SteamLauncher\steamapps\common\Empyrion - Dedicated Server\Content\Mods\FactionBank\FactionBank.dll
+K:\SteamLauncher\steamapps\common\Empyrion - Dedicated Server\Content\Mods\FactionBank\FactionBank.pdb
+F:\Repos\FactionBank\FactionBank\obj\Debug\FactionBank.dll
+F:\Repos\FactionBank\FactionBank\obj\Debug\FactionBank.pdb
+K:\SteamLauncher\steamapps\common\Empyrion - Dedicated Server\Content\Mods\FactionBank\Setup.yaml
